@@ -1,0 +1,12 @@
+C:\appservice-demo\AzureMvcDemo\publish\AzureMvcDemo.exe
+C:\appservice-demo\AzureMvcDemo\publish\publish\web.config
+C:\appservice-demo\AzureMvcDemo\publish\appsettings.Development.json
+C:\appservice-demo\AzureMvcDemo\publish\appsettings.json
+C:\appservice-demo\AzureMvcDemo\publish\publish\appsettings.Development.json
+C:\appservice-demo\AzureMvcDemo\publish\publish\appsettings.json
+C:\appservice-demo\AzureMvcDemo\publish\publish\AzureMvcDemo.deps.json
+C:\appservice-demo\AzureMvcDemo\publish\publish\AzureMvcDemo.runtimeconfig.json
+C:\appservice-demo\AzureMvcDemo\publish\AzureMvcDemo.dll
+C:\appservice-demo\AzureMvcDemo\publish\AzureMvcDemo.deps.json
+C:\appservice-demo\AzureMvcDemo\publish\AzureMvcDemo.runtimeconfig.json
+C:\appservice-demo\AzureMvcDemo\publish\AzureMvcDemo.pdb
